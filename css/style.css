@@ -1,0 +1,93 @@
+body{
+    display: grid;
+}
+.botao{
+    border-radius: 0%;
+    width: 200px;
+    margin-left: 150%;
+}
+.ma{
+    color: rgb(206, 14, 14);
+    font-style: italic;
+    display: flex;
+}
+.me{
+    color: #fff;
+    font-size: 20px;
+    line-height: 60px;
+    font-style: italic;
+    margin-left: 10px;
+}
+.inicio{
+    height: 50px;
+}
+.cartao{
+    width: 280px;
+    margin-left: 50px;
+    margin-top: 20px;
+    border-radius: 0%;
+    background-color: black;
+}
+.cartao h2{
+    color: #fff;
+    font-style: italic;
+}
+.cartao p{
+    color: #fff;
+    font-family: sans-serif;
+    font-style: oblique;
+}
+.Cartao2{
+    margin-top: 25px;
+    width: 20%;
+    
+}
+.carousel-caption{
+    margin-bottom: 260px;
+    font-size: 50px;
+    opacity: 50%;
+}
+.container2{
+    text-align: center;
+    background-color: rgb(223, 223, 223) ;
+    padding: 0% !important;
+    margin: 0%;
+}
+footer{
+    margin-top: 10px;
+    margin-bottom: 0%;
+    font-style: italic;
+}
+footer h1{
+    color: #fff;
+}
+.first{
+    color: #fff;
+    font-size: 30px;
+    margin-top: 5px;
+}
+.four{
+    margin-top: 15px;
+    color: #fff;
+    margin-bottom: 15px;
+}
+.linha{
+    color: red;
+    width: 60px;
+    border: red 2px solid;
+    border-radius: 2px;
+    margin-left: 10px;
+}
+.img2{
+    width: 290px;
+}
+.servicos{
+    margin-top: 10px;
+}
+.servicos hr{
+    color: red;
+    width: 60px;
+    border: red 2px solid;
+    border-radius: 2px;
+    
+}
